@@ -39,7 +39,7 @@ function Home() {
         <div className="home__row">
           <Product
             id="4903850"
-            title="Samsung QB65R 65 inch 4K UHD 3840x2160 LED Commercial Signage Display for Business with HDMI, Wi-Fi,350 nit (LH65QBREBGCXZA), Black "
+            title="Samsung QB65R 65 inch 4K UHD 3840x2160 LED Commercial Signage Display for Business with HDMI"
             price={1016.47}
             rating={3}
             image="https://images-na.ssl-images-amazon.com/images/I/81HURS4SyuL._AC_SL1500_.jpg"
