@@ -46,7 +46,7 @@ function Home() {
           />
           <Product
             id="4903850"
-            title="Sharp 70 Class Commercial LCD Display UHD with 400 CD/M2 Brightness and 3000: 1 Contrast Ratio "
+            title="Sharp 70 Class Commercial LCD Display UHD with 400 CD/M2 Brightness and 3000 "
             price={19999.00}
             rating={5}
             image="https://images-na.ssl-images-amazon.com/images/I/8177Kti9HaL._AC_SL1500_.jpg"
